@@ -2,4 +2,4 @@
 
 # Input Dataset
 
-![alt text](https://raw.githubusercontent.com/ainalic/snp2path2strata/blob/master/InputDataset.png)
+![alt text](https://github.com/ainalic/snp2path2strata/blob/master/InputDataset.png)
