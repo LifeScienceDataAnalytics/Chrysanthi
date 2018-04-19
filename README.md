@@ -3,8 +3,8 @@ A summarization of genomic features will be performed on pathway and gene set le
 
 # Input Dataset
 
-![alt text](https://github.com/ainalic/snp2path2strata/blob/master/InputDataset.png)
+![alt text](https://github.com/ainalic/snp2path2strata/blob/master/doc/InputDataset.png)
 
 
 # Pathway Activity Score Profile Matrices
-![alt text](https://github.com/ainalic/snp2path2strata/blob/master/PathwayProfiles.png)
+![alt text](https://github.com/ainalic/snp2path2strata/blob/master/doc/PathwayProfiles.png)
