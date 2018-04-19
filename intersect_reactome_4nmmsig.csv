@@ -1,102 +1,102 @@
 Reactome_pathways
-Activation of BAD and translocation to mitochondria
-Activation of Matrix Metalloproteinases
-Activation of NF-kappaB in B cells
-Activation translocation and oligomerization of BAX
-Adaptive Immune System
-Amyloid fiber formation
-Antiviral mechanism by IFN-stimulated genes
+Activation_of_BAD_and_translocation_to_mitochondria
+Activation_of_Matrix_Metalloproteinases
+Activation_of_NF-kappaB_in_B_cells
+Activation_translocation_and_oligomerization_of_BAX
+Adaptive_Immune_System
+Amyloid_fiber_formation
+Antiviral_mechanism_by_IFN-stimulated_genes
 Apoptosis
-Apoptotic cleavage of cellular proteins
-Apoptotic execution phase
-Axon guidance
-Axonal growth stimulation
-BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members
-Beta-catenin phosphorylation cascade
-CLEC7A (Dectin-1) signaling
-Caspase activation via extrinsic apoptotic signalling pathway
-Cell Cycle
-Cell Cycle Checkpoints
-Cell Cycle Mitotic
-Cyclin D associated events in G1
-Cytokine Signaling in Immune system
-DDX58/IFIH1-mediated induction of interferon-alpha/beta
-DNA Damage/Telomere Stress Induced Senescence
-DNA Double-Strand Break Repair
-DNA Repair
-Deactivation of the beta-catenin transactivating complex
-Degradation of beta-catenin by the destruction complex
-Degradation of the extracellular matrix
+Apoptotic_cleavage_of_cellular_proteins
+Apoptotic_execution_phase
+Axon_guidance
+Axonal_growth_stimulation
+BH3-only_proteins_associate_with_and_inactivate_anti-apoptotic_BCL-2_members
+Beta-catenin_phosphorylation_cascade
+CLEC7A_(Dectin-1)_signaling
+Caspase_activation_via_extrinsic_apoptotic_signalling_pathway
+Cell_Cycle
+Cell_Cycle_Checkpoints
+Cell_Cycle_Mitotic
+Cyclin_D_associated_events_in_G1
+Cytokine_Signaling_in_Immune_system
+DDX58/IFIH1-mediated_induction_of_interferon-alpha/beta
+DNA_Damage/Telomere_Stress_Induced_Senescence
+DNA_Double-Strand_Break_Repair
+DNA_Repair
+Deactivation_of_the_beta-catenin_transactivating_complex
+Degradation_of_beta-catenin_by_the_destruction_complex
+Degradation_of_the_extracellular_matrix
 Deubiquitination
-Disassembly of the destruction complex and recruitment of AXIN to the membrane
-Diseases associated with the TLR signaling cascade
-Dopamine receptors
-G0 and Early G1
-GABA A receptor activation
-GABA receptor activation
-Gap junction trafficking
-Gap junction trafficking and regulation
-Homology Directed Repair
-IRAK4 deficiency (TLR2/4)
-IRS activation
-IRS-related events triggered by IGF1R
-Immune System
-Insulin receptor recycling
-Insulin receptor signalling cascade
-Interferon Signaling
-Interferon alpha/beta signaling
-Interferon gamma signaling
-Interleukin-1 family signaling
-Interleukin-1 processing
-Interleukin-10 signaling
-Interleukin-4 and 13 signaling
-Intrinsic Pathway for Apoptosis
-MAP kinase activation in TLR cascade
-MAPK targets/ Nuclear events mediated by MAP kinases
-Mitochondrial protein import
-MyD88 deficiency (TLR2/4)
-MyD88 dependent cascade initiated on endosome
-MyD88:Mal cascade initiated on plasma membrane
-NF-kB is activated and signals survival
-NFG and proNGF binds to p75NTR
-NOTCH2 Activation and Transmission of Signal to the Nucleus
-NOTCH3 Activation and Transmission of Signal to the Nucleus
-Nitric oxide stimulates guanylate cyclase
-Programmed Cell Death
-RHO GTPase Effectors
-RHO GTPases Activate Formins
-RHO GTPases Activate ROCKs
-RIP-mediated NFkB activation via ZBP1
-Signaling by Insulin receptor
-Signaling by Interleukins
-Signaling by NOTCH
-Signaling by NOTCH1
-Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer
-Signaling by NOTCH1 PEST Domain Mutants in Cancer
-Signaling by NOTCH1 in Cancer
-Signaling by NOTCH2
-Signaling by NOTCH3
-Signaling by Rho GTPases
-Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
-Signaling by WNT
-Signalling by NGF
-TAK1 activates NFkB by phosphorylation and activation of IKKs complex
-TP53 Regulates Transcription of Cell Death Genes
-TRAF6 mediated NF-kB activation
-Toll Like Receptor 2 (TLR2) Cascade
-Toll Like Receptor 4 (TLR4) Cascade
-Toll Like Receptor 7/8 (TLR7/8) Cascade
-Toll Like Receptor 9 (TLR9) Cascade
-Toll Like Receptor TLR1:TLR2 Cascade
-Toll Like Receptor TLR6:TLR2 Cascade
-Toll-Like Receptors Cascades
-Unfolded Protein Response (UPR)
-VEGF binds to VEGFR leading to receptor dimerization
-VEGF ligand-receptor interactions
-VEGFA-VEGFR2 Pathway
-VEGFR2 mediated cell proliferation
-p75 NTR receptor-mediated signalling
-p75NTR negatively regulates cell cycle via SC1
-p75NTR recruits signalling complexes
-p75NTR regulates axonogenesis
-p75NTR signals via NF-kB
+Disassembly_of_the_destruction_complex_and_recruitment_of_AXIN_to_the_membrane
+Diseases_associated_with_the_TLR_signaling_cascade
+Dopamine_receptors
+G0_and_Early_G1
+GABA_A_receptor_activation
+GABA_receptor_activation
+Gap_junction_trafficking
+Gap_junction_trafficking_and_regulation
+Homology_Directed_Repair
+IRAK4_deficiency_(TLR2/4)
+IRS_activation
+IRS-related_events_triggered_by_IGF1R
+Immune_System
+Insulin_receptor_recycling
+Insulin_receptor_signalling_cascade
+Interferon_Signaling
+Interferon_alpha/beta_signaling
+Interferon_gamma_signaling
+Interleukin-1_family_signaling
+Interleukin-1_processing
+Interleukin-10_signaling
+Interleukin-4_and_13_signaling
+Intrinsic_Pathway_for_Apoptosis
+MAP_kinase_activation_in_TLR_cascade
+MAPK_targets/_Nuclear_events_mediated_by_MAP_kinases
+Mitochondrial_protein_import
+MyD88_deficiency_(TLR2/4)
+MyD88_dependent_cascade_initiated_on_endosome
+MyD88:Mal_cascade_initiated_on_plasma_membrane
+NF-kB_is_activated_and_signals_survival
+NFG_and_proNGF_binds_to_p75NTR
+NOTCH2_Activation_and_Transmission_of_Signal_to_the_Nucleus
+NOTCH3_Activation_and_Transmission_of_Signal_to_the_Nucleus
+Nitric_oxide_stimulates_guanylate_cyclase
+Programmed_Cell_Death
+RHO_GTPase_Effectors
+RHO_GTPases_Activate_Formins
+RHO_GTPases_Activate_ROCKs
+RIP-mediated_NFkB_activation_via_ZBP1
+Signaling_by_Insulin_receptor
+Signaling_by_Interleukins
+Signaling_by_NOTCH
+Signaling_by_NOTCH1
+Signaling_by_NOTCH1_HD+PEST_Domain_Mutants_in_Cancer
+Signaling_by_NOTCH1_PEST_Domain_Mutants_in_Cancer
+Signaling_by_NOTCH1_in_Cancer
+Signaling_by_NOTCH2
+Signaling_by_NOTCH3
+Signaling_by_Rho_GTPases
+Signaling_by_Type_1_Insulin-like_Growth_Factor_1_Receptor_(IGF1R)
+Signaling_by_WNT
+Signalling_by_NGF
+TAK1_activates_NFkB_by_phosphorylation_and_activation_of_IKKs_complex
+TP53_Regulates_Transcription_of_Cell_Death_Genes
+TRAF6_mediated_NF-kB_activation
+Toll_Like_Receptor_2_(TLR2)_Cascade
+Toll_Like_Receptor_4_(TLR4)_Cascade
+Toll_Like_Receptor_7/8_(TLR7/8)_Cascade
+Toll_Like_Receptor_9_(TLR9)_Cascade
+Toll_Like_Receptor_TLR1:TLR2_Cascade
+Toll_Like_Receptor_TLR6:TLR2_Cascade
+Toll-Like_Receptors_Cascades
+Unfolded_Protein_Response_(UPR)
+VEGF_binds_to_VEGFR_leading_to_receptor_dimerization
+VEGF_ligand-receptor_interactions
+VEGFA-VEGFR2_Pathway
+VEGFR2_mediated_cell_proliferation
+p75_NTR_receptor-mediated_signalling
+p75NTR_negatively_regulates_cell_cycle_via_SC1
+p75NTR_recruits_signalling_complexes
+p75NTR_regulates_axonogenesis
+p75NTR_signals_via_NF-kB
